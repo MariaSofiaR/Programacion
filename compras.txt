@@ -1,1 +1,4 @@
 peras frutas
+bananas
+manzanas
+choclo
